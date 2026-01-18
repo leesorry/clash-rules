@@ -1,2 +1,3 @@
 
 DOMAIN-SUFFIX,iui.su
+DOMAIN-SUFFIX,linux.do
